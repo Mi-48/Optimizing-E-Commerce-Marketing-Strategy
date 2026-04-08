@@ -31,7 +31,7 @@ Marketing teams often struggle to distinguish between channels and regions that 
 ### Strategic Recommendations:
 - Reallocate spend toward Search, Social Media, and TV.
 - Expand aggressively in the North region.
-- Use Email selectively for high‑value segments.
+- Spend on Search, Social Media and TV while using Email selectively for high‑value segments.
 - Shift from acquisition-heavy spend to retention & conversion optimization.
 - Upscale in low-competition markets while acquisition costs remain low.
 
