@@ -42,10 +42,12 @@ The analysis provided a data-driven roadmap for marketing optimization:
 - Balanced focus on short-term revenue growth and long-term profitability.
   
 ## Skills Demonstrated
-- Data cleaning and structuring for business analysis.
+- Data cleaning and structuring for business analysis using Tableau
 - Statistical comparison of market segments.
-- Visualization of regional and channel performance.
-- Translation of analytical findings into stakeholder-ready recommendations.
+- Visualization of regional and channel performance using Tableau
+- Translation of analytical findings into stakeholder-ready recommendations using slides
+  
+## https://public.tableau.com/views/Book1_17754953566120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 
 
