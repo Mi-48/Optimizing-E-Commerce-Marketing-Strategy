@@ -26,7 +26,7 @@ Marketing teams often struggle to distinguish between channels and regions that 
 - High‑competition markets are 1.3× more costly to enter.
 - The North region consistently delivers the highest revenue potential.
 - Storage drives revenue volume, while General category leads profitability.
-- Search, Social Media, TV channels show the strongest CLV-to-CPA ratios.
+- Search, Social Media, TV campaign channels show the strongest CLV-to-CPA ratios.
 
 ### Strategic Recommendations:
 - Reallocate spend toward Search, Social Media, and TV.
