@@ -47,7 +47,7 @@ The analysis provided a data-driven roadmap for marketing optimization:
 - Visualization of regional and channel performance using Tableau
 - Translation of analytical findings into stakeholder-ready recommendations using slides
   
-## https://public.tableau.com/views/Book1_17754953566120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 
 
 
